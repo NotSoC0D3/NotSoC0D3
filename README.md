@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=NotSoC0D3&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 📊 LeetCode Stats:
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/DYS_Logan?theme=dark)](https://leetcode.com/DYS_Logan)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
