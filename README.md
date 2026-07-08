@@ -17,6 +17,7 @@
 
 # 📊 GeeksForGeeks Stats:
 [GFG Profile](https://www.geeksforgeeks.org/profile/asinhakdo1)
+[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/asinhakdo1)](https://www.geeksforgeeks.org/profile/asinhakdo1)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/asinhakdo1)
 
 ### ✍️ Random Dev Quote
