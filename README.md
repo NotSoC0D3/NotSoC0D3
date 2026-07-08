@@ -16,9 +16,7 @@
 [![LeetCode Stats](https://leetcard.jacoblin.cool/DYS_Logan?theme=dark)](https://leetcode.com/DYS_Logan)
 
 # 📊 GeeksForGeeks Stats:
-[GFG Profile](https://www.geeksforgeeks.org/profile/asinhakdo1)
 [![GeeksForGeeks stats](https://gfgstatscard.vercel.app/asinhakdo1)](https://www.geeksforgeeks.org/profile/asinhakdo1)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/asinhakdo1)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
